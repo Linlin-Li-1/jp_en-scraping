@@ -1,5 +1,7 @@
 # Scraping
 
+### Author: Linlin Li
+
 run it in the following way
 ```
 python scraping.py --vol_start=383 --vol_end=383 -o output_filepath
