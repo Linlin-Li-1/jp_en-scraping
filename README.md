@@ -1,6 +1,5 @@
 # Scraping
 
-### Author: Linlin Li
 
 run it in the following way
 ```
